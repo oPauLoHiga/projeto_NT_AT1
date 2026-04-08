@@ -1,4 +1,7 @@
 saida/relatorio_final.txt
-dados_habitos_oficias-resposta_formulario.csv
+dados_habitos.csv
 saida/registros_invalidos.csv
 saida/registros_validos.csv
+relatorio.txt
+registros_validos.csv
+registros_invalidos.csv
