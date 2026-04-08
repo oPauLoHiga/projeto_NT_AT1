@@ -1,7 +1,4 @@
-saida/relatorio_final.txt
-dados_habitos.csv
-saida/registros_invalidos.csv
-saida/registros_validos.csv
-relatorio.txt
-registros_validos.csv
-registros_invalidos.csv
+/dados_habitos.csv
+/registros_invalidos.csv
+/registros_validos.csv
+/relatorio.txt
